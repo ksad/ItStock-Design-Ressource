@@ -1,0 +1,13 @@
+Run regedit and go to :
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths. You might need admin rights.
+
+Create a new key with the name cmd.exe i.e. 
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\cmd.exe
+
+Modify the Default string in the newly created key to reflect the path to cmder.exe e.g. C:\applications\cmder\cmder.exe
+In the cmd.exe key folder, create a new string called 'Path' and give it the value of the folder where cmder.exe is located. 
+
+For the example path in step 3 this would be C:\applications\cmder. 
+This step is not mandatory. It adds the directory to the PATH variable the cmder.exe inherits. 
+
+This is useful if the directory contains any helper executables required by cmder.exe.

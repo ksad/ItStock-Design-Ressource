@@ -1,0 +1,9 @@
+main background = #f6f7fa
+
+Icone profile : #5584ff
+
+Police color : #ffffff
+
+Police Color Login : #8492af
+
+Police color Profile : #d5d6d8

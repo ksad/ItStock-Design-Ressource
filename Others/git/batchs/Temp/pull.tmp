@@ -1,0 +1,12 @@
+Auto-merging ISM.autoplay
+CONFLICT (content): Merge conflict in ISM.autoplay
+Auto-merging CD_Root/AutoPlay/htdocs/xml data/pages_config/xml_data_USERS.xml
+Auto-merging CD_Root/AutoPlay/htdocs/xml data/pages_config/xml_data_USERS-SEARCH.xml
+Auto-merging CD_Root/AutoPlay/htdocs/xml data/pages_config/xml_data_HOME.xml
+Removing CD_Root/AutoPlay/Images/search_bar.png
+Removing CD_Root/AutoPlay/Images/logout.png
+Removing CD_Root/AutoPlay/Images/login-button.png
+Removing CD_Root/AutoPlay/Images/login-button-disabled.png
+Removing CD_Root/AutoPlay/Images/bg_listBox.png
+Removing CD_Root/AutoPlay/Images/630_11.png
+Automatic merge failed; fix conflicts and then commit the result.

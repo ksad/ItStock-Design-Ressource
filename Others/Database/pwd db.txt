@@ -1,0 +1,27 @@
+Local DB :
+DB Name : itstock / Password : ITstockDB2016
+root / MyrootPWD
+
+Remote DB : 
+https://www.freemysqlhosting.net/account/
+Username : ksad.karim@gmail.com
+Password : 57DxVt58Sxz
+
+Address : sql7.freemysqlhosting.net
+Name: sql7141772
+Username: sql7141772
+Password: a36pdHVlQR
+Port number: 3306
+
+dyndns :
+86.242.76.162
+
+Infinity : https://infinityfree.net/accounts
+
+cPnal : http://cpanel.epizy.com/index.php
+Username : epiz_19110911
+Password : itstock2016
+
+WebMail : admin@itstock.epizy.com/itstock2016
+
+GoMO5FfHYpKBn
