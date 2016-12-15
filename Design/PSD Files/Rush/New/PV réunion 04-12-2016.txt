@@ -1,0 +1,25 @@
+Réunion 04/12/2016
+
+Changer le logo
+
+    Décliner page login : image background flou et une autre clair
+
+    Revoir forgetpassword
+
+    Diminuer la Header Bar 
+
+    Se souvenir de moi  case à cochée
+
+    bouton maker pour le bouton login
+
+    Couleur Declinaison
+
+    agrandir les icones du profile
+
+    Header bar onglet declinaison exemple user : search and create etc....
+
+    formulaire BDD config
+
+    message boxe bouton couleurs
+
+
